@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/application"
+
+        android:icon="@drawable/seller_application" />
+    <item
+        android:id="@+id/product"
+        android:icon="@drawable/admin_products" />
+</menu>
