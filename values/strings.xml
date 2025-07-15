@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">project225.2</string>
+    <string name="choice_your_nfavorite_coffee">Choice your\nFavorite Coffee</string>
+    <string name="the_best_grain_the_finest_roast_nthe_powerfull_flavor">The best grain,the finest roast\nthe powerfull flavor</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_anything">Search anything...</string>
+    <string name="category">Category</string>
+    <string name="popular_coffees">Popular Produce</string>
+    <string name="see_all">See all</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_fragment">Product Fragment</string>
+    <string name="profile_seller_fragment">Profile Seller Fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
